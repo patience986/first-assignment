@@ -1,0 +1,22 @@
+body {
+    /* Set background properties */
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ1-LCrPGmmHZLtpHPsh_D0-sD_R5QAYuyPxs8xTzqf8BKEytySgxQKadPxOcTR8fj-Ro&usqp=CAU');
+    background-size: cover; /* Cover the entire background */
+    background-repeat: no-repeat; /* Prevent repeating the background image */
+    background-position: center; /* Center the background image */
+}
+body {
+    padding-top: 5rem;
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 0.3rem;
+}
+
+.footer {
+    background-color: #343a40;
+    color: #ffffff;
+}
